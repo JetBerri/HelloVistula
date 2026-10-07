@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hello Vistula:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hello_Vistula_jar</output-path>
+    <root id="archive" name="Hello Vistula.jar">
+      <element id="module-output" name="Hello Vistula" />
+    </root>
+  </artifact>
+</component>
