@@ -10,6 +10,3 @@ out/
 
 ### Mac OS ###
 .DS_Store
-
-### Old nested repos (kept as backup, not tracked) ###
-.git_old/
