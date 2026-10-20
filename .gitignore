@@ -4,6 +4,7 @@ out/
 .idea/shelf/
 .idea/httpRequests/
 *.iws
+.idea/
 
 ### Compiled ###
 *.class
